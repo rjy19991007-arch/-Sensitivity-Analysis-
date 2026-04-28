@@ -1,0 +1,3 @@
+﻿Metric,Mean,Min,Max
+Spearman ρ,0.9967 ,0.9878 ,0.9996 
+Top 20% overlap,0.9648 ,0.9200 ,1.0000 
